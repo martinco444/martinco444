@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinco444
 - 👀 I’m interested keep learning programing.
-- 🌱 I’m currently learning code in java.
+- 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? comartin910@gmail.com
 
